@@ -1,4 +1,4 @@
-# 😎 About Me:
+# 💫 About Me:
 👋🏻 Hi there! I'm a software engineer with a passion for coding and problem-solving.<br> <br>🎓 I'm currently pursuing my Bachelor's degree in Computer Science from KIIT University.<br><br>💻 I'm looking for new challenges and opportunities to learn and grow as a developer.<br><br>✉️ Feel free to check out my repositories and connect with me on LinkedIn. Let's collaborate and build something awesome together!<br><br>
 
 
